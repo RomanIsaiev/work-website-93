@@ -27,6 +27,7 @@
 body {
   max-width: 430px;
   margin: 0 auto;
+  height: 100%;
 }
 
 .section {
@@ -89,6 +90,11 @@ body {
 .video-wrapper {
   border-radius: 15px;
   border: 2px solid #ffe170;
+  height: 188px;
+  overflow: hidden;
+}
+
+.video {
   height: 188px;
 }
 
